@@ -23,6 +23,10 @@ Theory of Operation
 - Changing the version also updates any `indeterminate versions`_ in your codebase, like "Shrubbery NEXT", so you can reference the upcoming release in documentation.
   That's how Incremental supports the future.
 
+AI Policy
+---------
+
+This repository follows the `Twisted AI Policy <https://docs.twisted.org/en/latest/development/ai-policy.html>`_.
 
 Quick Start
 -----------
